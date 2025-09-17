@@ -1,0 +1,1 @@
+# -criar-Inst-ncia-Gerenciada-de-SQL-do-Azure
